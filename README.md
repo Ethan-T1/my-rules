@@ -18,7 +18,7 @@
 
 - **直连域名列表 direct.txt**：
   - [https://raw.githubusercontent.com/Ethan-T1/my-rules/refs/heads/main/direct.txt](https://raw.githubusercontent.com/Ethan-T1/my-rules/refs/heads/main/direct.txt)
-  - [https://cdn.jsdelivr.net/gh/Ethan-T1/my-rules/main/direct.txt](https://cdn.jsdelivr.net/gh/Ethan-T1/my-rules/main/direct.txt)
+  - [https://cdn.jsdelivr.net/gh/Ethan-T1/my-rules/main/direct.txt](https://cdn.jsdelivr.net/gh/Ethan-T1/my-rules@main/direct.txt)
 - **代理域名列表 proxy.txt**：
   - [https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/proxy.txt)
   - [https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/proxy.txt](https://cdn.jsdelivr.net/gh/Loyalsoldier/surge-rules@release/ruleset/proxy.txt)
