@@ -4,7 +4,7 @@
 
 ## 说明
 
-本项目规则集（DOMAIN-SET 和 RULE-SET）的数据主要来源于项目 [@Loyalsoldier]([https://github.com/Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/surge-rules)) 
+本项目规则集（DOMAIN-SET 和 RULE-SET）的数据主要来源于项目 [@Loyalsoldier](https://github.com/Loyalsoldier/surge-rules) 
 
 ## 规则文件地址及使用方式
 
